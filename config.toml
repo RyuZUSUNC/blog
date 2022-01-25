@@ -1,4 +1,4 @@
-baseURL = "https://0.0.0.0:8080/"
+baseURL = "https://loaclhost:8080/"
 # title = "RyuZUSUNC BLOG"
 author = "RyuZUSUNC"
 paginate = 6
