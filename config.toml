@@ -1,10 +1,9 @@
-baseURL = "https://hugo-paper.vercel.app/"
-# title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
-paginate = 3
-languageCode = "en"
-DefaultContentLanguage = "en"
+baseURL = "http://0.0.0.0:8080/"
+# title = "RyuZUSUNC BLOG"
+author = "RyuZUSUNC"
+paginate = 6
+languageCode = "zh-CN"
+DefaultContentLanguage = "zh-CN"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -12,7 +11,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "hugo-paper"
-title = "Paper"
+title = "RyuZUSUNC BLOG"
 
 [params]
 #  twitter = 'nanxiaobei'
