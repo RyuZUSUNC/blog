@@ -2,8 +2,8 @@ baseURL = "http://0.0.0.0:8080/"
 # title = "RyuZUSUNC BLOG"
 author = "RyuZUSUNC"
 paginate = 6
-languageCode = "zh-CN"
-DefaultContentLanguage = "zh-CN"
+languageCode = "en"
+DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
