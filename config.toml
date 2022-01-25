@@ -15,9 +15,9 @@ theme = "hugo-paper"
 title = "Paper"
 
 [params]
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+#  twitter = 'nanxiaobei'
+  github = 'RyuZUSUNC'
+#  instagram = 'nan.xiaobei'
 # ------------------------------
 
 [menu]
