@@ -15,7 +15,7 @@ title = "RyuZUSUNC BLOG"
 
 [params]
 #  twitter = 'nanxiaobei'
-  date_format = "02 Jan 2006"
+  dateFormat = "02 Jan 2006"
   github = 'RyuZUSUNC'
 #  instagram = 'nan.xiaobei'
 # ------------------------------
