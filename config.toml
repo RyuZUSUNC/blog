@@ -15,7 +15,8 @@ title = "RyuZUSUNC BLOG"
 
 [params]
 #  twitter = 'nanxiaobei'
-  dateFormat = "02 Jan 2006"
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
   github = 'RyuZUSUNC'
 #  instagram = 'nan.xiaobei'
 # ------------------------------
